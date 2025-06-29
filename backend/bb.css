@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h2 {
+     color: linear-gradient(to right, #007bff, #00c9ff);
+}
